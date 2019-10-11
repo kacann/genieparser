@@ -32,6 +32,10 @@ Installation guide can be found on [our website].
 $ pip install genie.metaparser
 ```
 
+# How to contribute
+
+If you want to contribute to the parser library, please see our [contribution guidelines](https://pubhub.devnetcloud.com/media/pyats-development-guide/docs/contribute/contribute.html#contribution-guidelines).
+
 # ChangeLog
 
 Change logs can be found [here](changelog/CHANGELOG.md).
